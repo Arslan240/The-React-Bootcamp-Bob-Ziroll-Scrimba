@@ -1,0 +1,1 @@
+Completed Render Props and some patterns
