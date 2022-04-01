@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css
+https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.csshttps://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css
